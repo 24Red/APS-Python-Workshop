@@ -1,6 +1,11 @@
-'''
-Created by Victoria Catlett for the UTD REU Python Workshop
-'''
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created for APS Summer REU Python 3 Workshop
+
+@author: victoriacatlett
+"""
+
 ###############################################################################
 ############# Import what you need from packages at the top ###################
 ###############################################################################
@@ -38,7 +43,7 @@ mz = bivarGauss(np.stack((mX, mY), axis =2))
 fig = plt.figure()
 ax = fig.gca(projection='3d')
 ax.plot_surface(mX, mY, mz, rstride=3, cstride=3, linewidth=1, antialiased=False, cmap=cm.coolwarm)
-ax.contourf(mX, mY, mz, zdir='x', offset=-5, cmap=cm.coolwarm)
+ax.contourf(mX, mY, mz, zdir='z', offset=-0.1, cmap=cm.coolwarm)
 
 ax.set_xlabel('X')
 ax.set_xlim(-5, 5)
