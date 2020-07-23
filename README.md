@@ -11,6 +11,10 @@ This workshop will be a jump start in Python 3 programming for students interest
 * **workshop_notebooks** contains the Python notebooks for this workshop, which are what you will be running. 
 * **workshop_scripts** contains the same Python codes as **workshop_notebooks**, but they are formatted such that they don't need a notebook-style IDE to run. 
 
+
+
+See **Getting Started.pdf** for a thorough description of how to prepare for this workshop. Here is a summary:
+
 ## Getting Started: 
 * Install Jupyter Notebook, which is a part of the [Anaconda Distribution](https://www.anaconda.com/products/individual). Make sure that you have or download the Python 3.7 version. 
 (This workshop will be conducted with Jupyter Notebook. However, if you are already familiar with Python, you may use the IDE of your choice.)
