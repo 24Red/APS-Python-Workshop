@@ -1,4 +1,7 @@
-# APS Python Workshop
+# REU Summer Workshop: Python 3
+*A virtual workshop brought to you by the American Physical Society*
+
+This workshop will be a jump start in Python 3 programming for students interested in applying it to scientific projects. The first half of the workshop will introduce Python 3 basics, including data structures, loops, and user-defined functions. The second half will be dedicated to guided examples using common Python 3 packages.
 
 ## What's In this Repository
 * **files** contains 3 data files you will use during the workshop
