@@ -4,7 +4,7 @@
 This workshop will be a jump start in Python 3 programming for students interested in applying it to scientific projects. The first half of the workshop will introduce Python 3 basics, including data structures, loops, and user-defined functions. The second half will be dedicated to guided examples using common Python 3 packages.
 
 ## What's In this Repository
-* **files** contains 3 data files you will use during the workshop
+* **files** contains 4 data files you will use during the workshop
 * **Getting Started.pdf** contains detailed perparation instructions for this workshop
 * **README.md** is the file that creates this description
 * **workshop_notebooks** contains the Python notebooks for this workshop, which are what you will be running. 
