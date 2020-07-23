@@ -7,6 +7,7 @@ This workshop will be a jump start in Python 3 programming for students interest
 * **files** contains 4 data files you will use during the workshop
 * **Getting Started.pdf** contains detailed perparation instructions for this workshop
 * **README.md** is the file that creates this description
+* **Workshop Slides.pdf** is a PDF of the workshop slides
 * **workshop_notebooks** contains the Python notebooks for this workshop, which are what you will be running. 
 * **workshop_scripts** contains the same Python codes as **workshop_notebooks**, but they are formatted such that they don't need a notebook-style IDE to run. 
 
