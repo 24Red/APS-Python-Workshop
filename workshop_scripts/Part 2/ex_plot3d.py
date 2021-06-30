@@ -1,11 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created for APS Summer REU Python 3 Workshop
-
-@author: victoriacatlett
-"""
-
+'''
+Created by Victoria Catlett for the Intermediate Python 3 Workshop
+'''
 ###############################################################################
 ############# Import what you need from packages at the top ###################
 ###############################################################################
